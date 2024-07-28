@@ -19,7 +19,8 @@ This repository contains my first project using Tableau, focusing on the analysi
 ## Tableau Dashboard
 
 You can check out the interactive Tableau dashboard [here](https://public.tableau.com/views/ElectricVehiclesDashboard_17221298503800/Dashboard1).
-![Electric Vehicle Dashboard](Dashboard 1.png)
+
+![Electric Vehicle Dashboard](Dashboard%201.png)
 
 ## Learning and Acknowledgements
 

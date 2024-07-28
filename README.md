@@ -2,6 +2,12 @@
 
 This repository contains my first project using Tableau, focusing on the analysis of electric vehicles (EVs). The project leverages both Excel and Tableau to gather, clean, analyze, and visualize data to uncover key insights about the EV market.
 
+## Tableau Dashboard
+
+You can check out the interactive Tableau dashboard [here](https://public.tableau.com/views/ElectricVehiclesDashboard_17221298503800/Dashboard1).
+
+![Electric Vehicle Dashboard](Dashboard%201.png)
+
 ## Project Highlights
 
 - **Data Collection & Preparation:** 
@@ -15,12 +21,6 @@ This repository contains my first project using Tableau, focusing on the analysi
 - **Key Insights:**
   - Identified top manufacturers and popular EV models.
   - Projected growth trends in the EV sector based on historical data.
-
-## Tableau Dashboard
-
-You can check out the interactive Tableau dashboard [here](https://public.tableau.com/views/ElectricVehiclesDashboard_17221298503800/Dashboard1).
-
-![Electric Vehicle Dashboard](Dashboard%201.png)
 
 ## Learning and Acknowledgements
 
